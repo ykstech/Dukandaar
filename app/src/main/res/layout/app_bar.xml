@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/purple_500"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:elevation="10dp"
+        >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="wrap_content"
+        android:layout_height="?attr/actionBarSize"
+
+        android:layout_marginRight="55dp"
+        app:menu="@menu/header_menu"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/left_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ic_baseline_menu_24" />
+
+
+<!--            <EditText-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="45dp"-->
+<!--                android:singleLine="true"-->
+<!--                android:layout_centerVertical="true"-->
+<!--                android:text=""-->
+<!--                android:id="@+id/searchedit"-->
+<!--                android:drawableEnd="@drawable/ic_baseline_search_24"-->
+<!--                android:layout_marginRight="0dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                />-->
+            <TextView
+                android:id="@+id/drawertext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/left_menu"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:visibility="visible" />
+
+
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+     <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/right_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+
+        android:background="@drawable/ic_baseline_filter_list_24" />
+
+
+</RelativeLayout>
+
+
+    </com.google.android.material.appbar.AppBarLayout>

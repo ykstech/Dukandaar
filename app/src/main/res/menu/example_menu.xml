@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <group
+    android:id="@+id/group1"
+    android:checkableBehavior="single" >
+    
+
+        <item android:id="@+id/item2"
+            android:title="All Bills" />
+    <item android:id="@+id/item3"
+        android:title="Todays Bill" />
+    <item android:id="@+id/item4"
+        android:title="This Month" />
+        <item android:id="@+id/item5"
+            android:title="This Year" />
+        <item android:id="@+id/item6"
+        android:title="Select Date" />
+        <item android:id="@+id/item7"
+        android:title="Select Month " />
+
+
+        <item android:id="@+id/item8"
+            android:title="Select Year " />
+
+        <item android:id="@+id/item9"
+            android:title="Select Month &amp; Year " />
+    </group>
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dukandaar</string>
+    <string name="todo">TODO</string>
+    <string name="not_paid">Not paid</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="paid">Paid</string>
+    <string name="deactivated">Deactivated</string>
+    <string name="activated">Activated</string>
+    <string name="phone_no">phone no</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_phone">Customer Phone</string>
+    <string name="customer_card">Customer Card</string>
+    <string name="box">Box</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="font_family_regular">sans-serif</string>
+
+
+    <array name="teams">
+        <item>Cash</item>
+        <item>Cheque</item>
+        <item>RTGS</item>
+    </array>
+</resources>
