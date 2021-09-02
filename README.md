@@ -44,5 +44,8 @@ we can see the live status of our bills in profile section ... Total amount ,Tot
 ## Demo Video
 <a href="https://www.youtube.com/watch?v=i46LsoiVw8c&list=PL7TUpeB71cXMsQDTx2JcgDIuYqn40YKCZ" target="_blank">Click to watch video</a>
 
+## Technologies Used
+
+
 
 
