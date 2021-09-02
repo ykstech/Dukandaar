@@ -1740,7 +1740,7 @@ public  void initNavigationDrawer(){
 
                         Intent shareintent = new Intent(Intent.ACTION_SEND);
                         shareintent.setType("text/plain");
-                        String body = "Download app now: https://appsenjoy.com/dCHsm \n" +
+                        String body = "Download app now: https://github.com/ykstech/Dukandaar/tree/master/dukandaar.apk \n" +
 
                                 "Dukandaar billing app..\n" +
                                 "It manages bills of dukandaar from holesellers ...\n" +
