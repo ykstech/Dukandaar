@@ -42,7 +42,7 @@ we can see the live status of our bills in profile section ... Total amount ,Tot
 <img src="https://user-images.githubusercontent.com/85982995/131882215-37fdd742-bbee-4f4b-97f8-9eb77969b875.png" width="760" height="400"></img>
 
 ## Demo Video
-<a href="https://www.youtube.com/watch?v=i46LsoiVw8c&list=PL7TUpeB71cXMsQDTx2JcgDIuYqn40YKCZ" >Click to watch video</a>
+<a href="https://www.youtube.com/watch?v=i46LsoiVw8c&list=PL7TUpeB71cXMsQDTx2JcgDIuYqn40YKCZ" target="_blank">Click to watch video</a>
 
 
 
