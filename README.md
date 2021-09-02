@@ -45,6 +45,14 @@ we can see the live status of our bills in profile section ... Total amount ,Tot
 <a href="https://www.youtube.com/watch?v=i46LsoiVw8c&list=PL7TUpeB71cXMsQDTx2JcgDIuYqn40YKCZ" target="_blank">Click to watch video</a>
 
 ## Technologies Used
+1) mysql database
+2) php
+3) java
+4) xml
+5) recyclerview
+6) 2 Navigation drawer
+7) bottom navigation
+8) excel and pdf report
 
 
 
