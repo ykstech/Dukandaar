@@ -26,19 +26,23 @@ we can see the live status of our bills in profile section ... Total amount ,Tot
 4) We do not have to upload or recover any data at any time …
 
 ## Working of App
-<img src="https://user-images.githubusercontent.com/85982995/131882170-595a0fdd-9d1f-442a-8d92-a9a27fa9a36c.png" width="100" height="100" />
-![Screenshot_20210902-215304](https://user-images.githubusercontent.com/85982995/131882175-ad4bfd40-9bbd-42a2-9da7-1d3ffa3ebdf0.png)
-![Screenshot_20210902-215310](https://user-images.githubusercontent.com/85982995/131882179-56002aee-6c96-4794-9980-498d7b5c02f1.png)
-![Screenshot_20210902-215314](https://user-images.githubusercontent.com/85982995/131882184-aff8434d-3c2b-4252-a762-79f3da1df773.png)
-![Screenshot_20210902-215324](https://user-images.githubusercontent.com/85982995/131882187-95bdc8cd-c829-45b9-adf4-c2cdb95283cc.png)
-![Screenshot_20210902-215343](https://user-images.githubusercontent.com/85982995/131882189-5a9514b5-1ec2-447d-97fb-ebe76fc8c945.png)
-![Screenshot_20210902-215351](https://user-images.githubusercontent.com/85982995/131882196-3c16e6c7-c769-405d-9e43-7c7aec9c9eed.png)
-![Screenshot_20210902-215411](https://user-images.githubusercontent.com/85982995/131882199-446c0a50-eb00-4ae6-8fe4-eaf435fd0641.png)
-![Screenshot_20210902-215425](https://user-images.githubusercontent.com/85982995/131882201-724aab01-8823-43d0-be91-97c1a3306fc3.png)
-![Screenshot_20210902-215432](https://user-images.githubusercontent.com/85982995/131882209-0fce085d-f31c-43ab-8ae5-262f6c5fd628.png)
-![Screenshot_20210902-215456](https://user-images.githubusercontent.com/85982995/131882211-52b3ce9b-1018-43f1-b1b9-be5983a93fcf.png)
-![Screenshot_20210902-215618](https://user-images.githubusercontent.com/85982995/131882213-f0ddf8f5-e129-428f-836f-3f7ac2a987a7.png)
-![Screenshot_20210902-215741](https://user-images.githubusercontent.com/85982995/131882215-37fdd742-bbee-4f4b-97f8-9eb77969b875.png)
+
+<img src="https://user-images.githubusercontent.com/85982995/131882209-0fce085d-f31c-43ab-8ae5-262f6c5fd628.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882211-52b3ce9b-1018-43f1-b1b9-be5983a93fcf.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882201-724aab01-8823-43d0-be91-97c1a3306fc3.png" width="250" height="400"></img><br>
+<img src="https://user-images.githubusercontent.com/85982995/131882170-595a0fdd-9d1f-442a-8d92-a9a27fa9a36c.png" width="250" height="400" ></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882175-ad4bfd40-9bbd-42a2-9da7-1d3ffa3ebdf0.png" width="250" height="400" ></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882179-56002aee-6c96-4794-9980-498d7b5c02f1.png" width="250" height="400" ></img><br>
+<img src="https://user-images.githubusercontent.com/85982995/131882184-aff8434d-3c2b-4252-a762-79f3da1df773.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131884420-d83d5ada-7de2-495f-8151-5d7e07617add.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882196-3c16e6c7-c769-405d-9e43-7c7aec9c9eed.png" width="250" height="400"></img><br>
+<img src="https://user-images.githubusercontent.com/85982995/131882189-5a9514b5-1ec2-447d-97fb-ebe76fc8c945.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882199-446c0a50-eb00-4ae6-8fe4-eaf435fd0641.png" width="250" height="400"></img>
+<img src="https://user-images.githubusercontent.com/85982995/131882213-f0ddf8f5-e129-428f-836f-3f7ac2a987a7.png" width="250" height="400"></img><br>
+<img src="https://user-images.githubusercontent.com/85982995/131882215-37fdd742-bbee-4f4b-97f8-9eb77969b875.png" width="760" height="400"></img>
+
+## Demo Video
+<a href="https://www.youtube.com/watch?v=i46LsoiVw8c&list=PL7TUpeB71cXMsQDTx2JcgDIuYqn40YKCZ" >Click to watch video</a>
 
 
 
