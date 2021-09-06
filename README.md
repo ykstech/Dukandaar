@@ -24,6 +24,7 @@ we can see the live status of our bills in profile section ... Total amount ,Tot
 2) This app manage transaction of each bill individually in separate view..
 3) This app works on live data server so no data lose is there at any time..
 4) We do not have to upload or recover any data at any time …
+5) This app uses android c++ ndk for securing api url and parameters .
 
 ## Working of App
 
