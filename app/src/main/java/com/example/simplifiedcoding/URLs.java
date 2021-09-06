@@ -8,7 +8,7 @@ package com.example.simplifiedcoding;
 
 public class URLs {
 
-    private static final String ROOT_URL = "http://burhanpurstores.c1.biz/Api1.php?apicall=";
+    private static final String ROOT_URL = "http://place your domain name her/Api1.php?apicall=";
 
     public static final String URL_REGISTER = ROOT_URL + "signup";
     public static final String URL_LOGIN= ROOT_URL + "login";
