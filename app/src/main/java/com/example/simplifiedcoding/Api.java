@@ -7,7 +7,7 @@ package com.example.simplifiedcoding;
 
 public class Api {
 
-    private static final String ROOT_URL = "http://burhanpurstores.c1.biz/HeroApi/v1/Api.php?apicall=";
+    private static final String ROOT_URL = "http://place your domain name here/HeroApi/v1/Api.php?apicall=";
 
     public static final String URL_CREATE_HERO = ROOT_URL + "createhero";
 
